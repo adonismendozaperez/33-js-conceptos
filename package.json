@@ -1,0 +1,28 @@
+{
+  "name": "33-js-concepts",
+  "version": "1.0.0",
+  "description": "33 Concepts Every JS Developer Should Know",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonardomso/33.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "JS",
+    "NodeJS",
+    "Node"
+  ],
+  "author": {
+    "name": "Leonardo Maldonado",
+    "url": "https://github.com/leonardomso"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leonardomso/33/issues"
+  },
+  "homepage": "https://github.com/leonardomso/33#readme"
+}
