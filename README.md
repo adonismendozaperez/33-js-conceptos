@@ -706,7 +706,7 @@ Todas las traducciones para este repo serán enumeradas abajo:
 
 ---
 
-## 25. Promisas
+## 25. Promesas
 
 ### Artículos (Inglés)
 
