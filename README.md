@@ -63,7 +63,7 @@ Todas las traducciones para este repo serán enumeradas abajo:
 22. **[High Order Functions](#22-high-order-functions)**
 23. **[Recursion](#23-recursion)**
 24. **[Collections y Generators](#24-collections-y-generators)**
-25. **[Promisas](#25-promisas)**
+25. **[Promesas](#25-promesas)**
 26. **[async/await](#26-asyncawait)**
 27. **[Estructuras de datos](#27-estructuras-de-datos)**
 28. **[Expensive Operation y Big O Notation](#28-expensive-operation-y-big-o-notation)**
@@ -706,7 +706,7 @@ Todas las traducciones para este repo serán enumeradas abajo:
 
 ---
 
-## 25. Promisas
+## 25. Promesas
 
 ### Artículos (Inglés)
 
