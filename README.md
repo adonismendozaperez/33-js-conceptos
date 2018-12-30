@@ -30,9 +30,17 @@ Siéntase libre de enviar un PR agregando un enlace a sus propios resúmenes o c
 Todas las traducciones para este repo serán enumeradas abajo:
 
 - [Chino](https://github.com/stephentian/33-js-concepts) — Re Tian
-- [Portugués-BR](https://github.com/tiagoboeing/33-js-concepts) — Tiago Boeing
-- [Coreano](https://github.com/yjs03057/33-js-concepts.git) — Suin Lee
-- [Inglés](https://github.com/leonardomso/33-js-concepts) — Leonardo Maldonado
+- [Portugués](https://github.com/tiagoboeing/33-js-concepts) — Tiago Boeing
+- [Koreano](https://github.com/yjs03057/33-js-concepts.git) — Suin Lee
+- [Turco](https://github.com/ilker0/33-js-concepts) — İlker Demir
+- [Ruso](https://github.com/gumennii/33-js-concepts) — Mihail Gumennii
+- [Vietnamita](https://github.com/nguyentranchung/33-js-concepts) — Nguyễn Trần Chung
+- [Polaco](https://github.com/lip3k/33-js-concepts) — Dawid Lipinski
+- [Persa](https://github.com/majidalavizadeh/33-js-concepts) — Majid Alavizadeh
+- [Indonés](https://github.com/rijdz/33-js-concepts) — Rijdzuan Sampoerna
+- [Francés](https://github.com/robinmetral/33-concepts-js) — Robin Métral
+- [Hindú](https://github.com/vikaschauhan/33-js-concepts) — Vikas Chauhan
+
 
 
 ---
@@ -432,7 +440,7 @@ Todas las traducciones para este repo serán enumeradas abajo:
  * 🎥 [bind and this - Object Creation in JavaScript - FunFunFunction](https://www.youtube.com/watch?v=GhbhD1HR5vk)
  * 🎥 [JavaScript Practical Applications of Call, Apply and Bind functions — techsith](https://www.youtube.com/watch?v=AYVYxezrMWA)
  * 🎥 [JS Function Methods call(), apply(), and bind() — Steve Griffith](https://www.youtube.com/watch?v=uBdH0iB1VDM)
- 
+
 **[⬆ volver arriba](#Tabla-de-contenido)**
 
 ---
@@ -732,7 +740,7 @@ Todas las traducciones para este repo serán enumeradas abajo:
  * 🎥 [Promises — Fun Fun Function](https://www.youtube.com/watch?v=2d7s3spWAzo)
  * 🎥 [Error Handling Promises in JavaScript — Fun Fun Function](https://www.youtube.com/watch?v=f8IgdnYIwOU)
  * 🎥 [Promises Part 1 - Topics of JavaScript/ES6 — The Coding Train](https://www.youtube.com/watch?v=QO4NXhWo_NM)
- 
+
 **[⬆ volver arriba](#Tabla-de-contenido)**
 
 ---
