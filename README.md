@@ -19,6 +19,9 @@
   </a>
 </p>
 
+    
+![](https://vistr.dev/badge?repo=adonismendozaperez.33-js-conceptos)
+ 
 ## Introducción
 
 Este repositorio fue creado con la intención de ayudar a los desarrolladores a dominar sus conceptos en JavaScript. No es un requisito, sino una guía para futuros estudios. Está basado en un artículo escrito por [Stephen Curtis](https://twitter.com/stephenthecurt) y puede leerlo [aquí](https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1).
