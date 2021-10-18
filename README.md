@@ -380,6 +380,7 @@ Todas las traducciones para este repo serán enumeradas abajo:
  * 📜 [Eloquent JavaScript [Book] — The Document Object Model](https://eloquentjavascript.net/14_dom.html)
  * 📜 [DOM Tree](https://javascript.info/dom-nodes)
  * 📜 [Render Tree Construction — Ilya Grigorik](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/render-tree-construction)
+ * 📜 [Adiós jQuery, explotando JavaScript — Kike Sanchez](https://medium.com/zurvin/adi%C3%B3s-jquery-explotando-javascript-cac32bac4ef4)
 
  ### Videos
 
@@ -586,6 +587,7 @@ Todas las traducciones para este repo serán enumeradas abajo:
  * 📜 [To mutate, or not to mutate, in JavaScript](https://slemgrim.com/mutate-or-not-to-mutate/)
  * 📜 [Arrays, Objects and Mutations — Federico Knüssel](https://medium.com/@fknussel/arrays-objects-and-mutations-6b23348b54aa)
  * 📜 [The State of Immutability — Maciej Sikora](https://medium.com/dailyjs/the-state-of-immutability-169d2cd11310)
+ * 📜 [Hablemos de Inmutabilidad — Kike Sanchez](https://medium.com/zurvin/hablemos-de-inmutabilidad-3dc65d290783)
  * 📜 [How to deal with dirty side effects in your pure functional JavaScript — James Sinclair](https://jrsinclair.com/articles/2018/how-to-deal-with-dirty-side-effects-in-your-pure-functional-javascript/)
  * 📜 [Preventing Side Effects in JavaScript — David Walsh](https://davidwalsh.name/preventing-sideeffects-javascript)
 
@@ -705,6 +707,7 @@ Todas las traducciones para este repo serán enumeradas abajo:
 * 📜 [What are JavaScript Generators and how to use them — Vladislav Stepanov](https://codeburst.io/what-are-javascript-generators-and-how-to-use-them-c6f2713fd12e)
 * 📜 [Understanding JavaScript Generators With Examples  — Arfat Salman](https://codeburst.io/understanding-generators-in-es6-javascript-with-examples-6728834016d5)
 * 📜 [The Basics of ES6 Generators — Kyle Simpson](https://davidwalsh.name/es6-generators)
+* 📜 [Usos favoritos del operador Spread (…) — Kike Sanchez](https://medium.com/zurvin/es6-usos-favoritos-del-operador-spread-de9a35a24630)
 
 
 
@@ -736,6 +739,7 @@ Todas las traducciones para este repo serán enumeradas abajo:
  * 📜 [A Simple Guide to ES6 Promises — Brandon Morelli](https://codeburst.io/a-simple-guide-to-es6-promises-d71bacd2e13a)
  * 📜 [The ES6 Promises — Manoj Singh Negi](https://codeburst.io/the-es6-promises-87a979ab27e4)
  * 📜 [ES6 Promises in Depth — Nicolás Bevacqua](https://ponyfoo.com/articles/es6-promises-in-depth)
+ * 📜 [Lo que debemos saber de EScript 2020 — Kike Sanchez](https://medium.com/zurvin/lo-que-debemos-saber-de-escript-2020-5fc61da5e4cd)
 
  ### Videos
 
