@@ -32,6 +32,8 @@ Siéntase libre de enviar un PR agregando un enlace a sus propios resúmenes o c
 
 Todas las traducciones para este repo serán enumeradas abajo:
 
+- [Albanés](https://github.com/eldrinf/33-js-concepts-albanian.git) — Eldrin Ereqi
+- [Árabe](https://github.com/amrsekilly/33-js-concepts) — Amr Elsekilly
 - [Chino](https://github.com/stephentian/33-js-concepts) — Re Tian
 - [Portugués](https://github.com/tiagoboeing/33-js-concepts) — Tiago Boeing
 - [Koreano](https://github.com/yjs03057/33-js-concepts.git) — Suin Lee
@@ -44,9 +46,13 @@ Todas las traducciones para este repo serán enumeradas abajo:
 - [Inglés](https://github.com/leonardomso/33-js-concepts) — Leonardo Maldonado
 - [Francés](https://github.com/robinmetral/33-concepts-js) — Robin Métral
 - [Hindú](https://github.com/vikaschauhan/33-js-concepts) — Vikas Chauhan
-
-
-
+- [Griego](https://github.com/DimitrisZx/33-js-concepts) — Dimitris Zarachanis
+- [Japonés](https://github.com/oimo23/33-js-concepts) — oimo23
+- [Alemán](https://github.com/burhannn/33-js-concepts) — burhannn
+- [Ucraniano](https://github.com/AndrewSavetchuk/33-js-concepts-ukrainian-translation) — Andrew Savetchuk
+- [Cingalés](https://github.com/ududsha/33-js-concepts) — Udaya Shamendra
+- [Italiano](https://github.com/Donearm/33-js-concepts) — Gianluca Fiore
+    
 ---
 
 ## Tabla de contenido
