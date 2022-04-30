@@ -117,6 +117,7 @@ Todas las traducciones para este repo serán enumeradas abajo:
  * 🎥 [Understanding JavaScript Execution — Codesmith](https://www.youtube.com/watch?v=Z6a1cLyq7Ac&list=PLWrQZnG8l0E4kd1T_nyuVoxQUaYEWFgcD)
  * 🎥 [Call Stack & Event Loop — movies com](https://www.youtube.com/watch?v=mk0lu9MKBto)
  * 🎥 [The Ultimate Guide to Execution Contexts, Hoisting, Scopes, and Closures in JavaScript — Tyler McGinnis](https://www.youtube.com/watch?v=Nt-qa_LlUH0)
+ * 🎥 [La PILA DE EJECUCIÓN (Call Stack) de JAVASCRIPT | JS en ESPAÑOL](https://youtu.be/ygA5U7Wgsg8)
 
 **[⬆ volver arriba](#Tabla-de-contenido)**
 
@@ -142,6 +143,7 @@ Todas las traducciones para este repo serán enumeradas abajo:
  * 🎥 [Value Types and Reference Types in JavaScript — Programming with Mosh](https://www.youtube.com/watch?v=e-_mDyqm2oU)
  * 🎥 [JavaScript Primitive Data Types — Avelx](https://www.youtube.com/watch?v=qw3j0A3DIzQ)
  * 🎥 [Everything you never wanted to know about JavaScript numbers — Bartek Szopka](https://www.youtube.com/watch?v=MqHDDtVYJRI)
+ * 🎥 [TIPOS DE DATOS PRIMITIVOS en JAVASCRIPT | JS en ESPAÑOL](https://youtu.be/cC65D2q5f8I)
 
 **[⬆ volver arriba](#Tabla-de-contenido)**
 
@@ -210,6 +212,7 @@ Todas las traducciones para este repo serán enumeradas abajo:
 
  * 🎥 [JavaScript - The typeof operator — Java Brains](https://www.youtube.com/watch?v=ol_su88I3kw)
  * 🎥 [Javascript typeof operator — DevDelight](https://www.youtube.com/watch?v=qPYhTPt_SbQ)
+ * 🎥 [== vs === en JAVASCRIPT | JS en ESPAÑOL](https://youtu.be/FCkhDBsXsFg)
 
 **[⬆ volver arriba](#Tabla-de-contenido)**
 
@@ -236,6 +239,7 @@ Todas las traducciones para este repo serán enumeradas abajo:
  * 🎥 [Variable Scope in JavaScript — Kirupa Chinnathambi](https://www.youtube.com/watch?v=dhp57T3p760)
  * 🎥 [JavaScript Block Scope and Function Scope — mmtuts](https://www.youtube.com/watch?v=aK_nuUAdr8E)
  * 🎥 [What the Heck is Lexical Scope? — NWCalvank](https://www.youtube.com/watch?v=GhNA0r10MmA)
+ * 🎥 [EL SCOPE en JAVASCRIPT | JS en ESPAÑOL](https://youtu.be/s-7C09ymzK8)
 
 **[⬆ volver arriba](#Tabla-de-contenido)**
 
@@ -256,6 +260,7 @@ Todas las traducciones para este repo serán enumeradas abajo:
  * 🎥 [Expressions vs. Statements in JavaScript — Hexlet](https://www.youtube.com/watch?v=WVyCrI1cHi8)
  * 🎥 [JavaScript - Expression vs. Statement — WebTunings](https://www.youtube.com/watch?v=3jDpNGJkupA)
  * 🎥 [Function Statements and Function Expressions — Codeacademy](https://www.youtube.com/watch?v=oB5rH_9bqAI)
+ * 🎥 [EXPRESIONES vs SENTENCIAS EN JAVASCRIPT | JS en ESPAÑOL](https://youtu.be/wlukoWco2zk)
 
 **[⬆ volver arriba](#Tabla-de-contenido)**
 
@@ -451,6 +456,7 @@ Todas las traducciones para este repo serán enumeradas abajo:
  * 🎥 [bind and this - Object Creation in JavaScript - FunFunFunction](https://www.youtube.com/watch?v=GhbhD1HR5vk)
  * 🎥 [JavaScript Practical Applications of Call, Apply and Bind functions — techsith](https://www.youtube.com/watch?v=AYVYxezrMWA)
  * 🎥 [JS Function Methods call(), apply(), and bind() — Steve Griffith](https://www.youtube.com/watch?v=uBdH0iB1VDM)
+ * 🎥 [THIS EN JAVASCRIPT (bind, call, apply y más)](https://youtu.be/bS71_W_BDFE)
 
 **[⬆ volver arriba](#Tabla-de-contenido)**
 
@@ -573,6 +579,7 @@ Todas las traducciones para este repo serán enumeradas abajo:
  * 🎥 [[Array Methods 2/3] .filter + .map + .reduce — CodeWithNick](https://www.youtube.com/watch?v=4qWlqD0yYTU)
  * 🎥 [Arrow functions in JavaScript - What, Why and How — Fun Fun Function](https://www.youtube.com/watch?v=6sQDTgOqh-I)
  * 🎥 [Learning Functional Programming with JavaScript — Anjana Vakil - JSUnconf](https://www.youtube.com/watch?v=e-5obm1G_FY&t=1521s)
+ * 🎥 [MAP, FILTER y REDUCE EN JAVASCRIPT](https://youtu.be/tP8JiVUiyDo)
 
 
 **[⬆ volver arriba](#Tabla-de-contenido)**
@@ -632,6 +639,7 @@ Todas las traducciones para este repo serán enumeradas abajo:
  * 🎥 [JavaScript Closures 101: What is a closure? — JavaScript Tutorials](https://www.youtube.com/watch?v=yiEeiMN2Khs)
  * 🎥 [Closures — freeCodeCamp](https://www.youtube.com/watch?v=1JsJx1x35c0)
  * 🎥 [JavaScript Closures — CodeWorkr](https://www.youtube.com/watch?v=-rLrGAXK8WE)
+ * 🎥 [CLAUSURAS (Closures) EN JAVASCRIPT](https://youtu.be/JXG_gQ0OF74)
 
 **[⬆ volver arriba](#Tabla-de-contenido)**
 
