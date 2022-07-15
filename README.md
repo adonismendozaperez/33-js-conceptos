@@ -166,6 +166,7 @@ Todas las traducciones para este repo serán enumeradas abajo:
 
  * 🎥 [Javascript Pass by Value vs Pass by Reference — techsith](https://www.youtube.com/watch?v=E-dAnFdq8k8)
  * 🎥 [JavaScript Value vs Reference Types — Programming with Mosh](https://www.youtube.com/watch?v=fD0t_DKREbE)
+ * 🎥 [VALORES vs REFERENCIAS en JAVASCRIPT | JS en ESPAÑOL](https://youtu.be/AvkyOrWkuQc)
 
 **[⬆ volver arriba](#Tabla-de-contenido)**
 
@@ -188,6 +189,7 @@ Todas las traducciones para este repo serán enumeradas abajo:
  * 🎥 [== ? === ??? ...#@^% - Shirmung Bielefeld](https://www.youtube.com/watch?v=qGyqzN0bjhc&t)
  * 🎥 [Coercion in Javascript - Hitesh Choudhary](https://www.youtube.com/watch?v=b04Q_vyqEG8)
  * 🎥 [JavaScript Questions: What is Coercion? - Steven Hancock](https://www.youtube.com/watch?v=z4-8wMSPJyI)
+ * 🎥 [EL SISTEMA de TIPOS DE JAVASCRIPT | JS en ESPAÑOL](https:/`/youtu.be/0ei4nb49GKo)
 
 **[⬆ volver arriba](#Tabla-de-contenido)**
 
@@ -456,7 +458,7 @@ Todas las traducciones para este repo serán enumeradas abajo:
  * 🎥 [bind and this - Object Creation in JavaScript - FunFunFunction](https://www.youtube.com/watch?v=GhbhD1HR5vk)
  * 🎥 [JavaScript Practical Applications of Call, Apply and Bind functions — techsith](https://www.youtube.com/watch?v=AYVYxezrMWA)
  * 🎥 [JS Function Methods call(), apply(), and bind() — Steve Griffith](https://www.youtube.com/watch?v=uBdH0iB1VDM)
- * 🎥 [THIS EN JAVASCRIPT (bind, call, apply y más)](https://youtu.be/bS71_W_BDFE)
+ * 🎥 [THIS EN JAVASCRIPT (bind, call, apply y más) | JS en ESPAÑOL](https://youtu.be/bS71_W_BDFE)
 
 **[⬆ volver arriba](#Tabla-de-contenido)**
 
@@ -518,6 +520,7 @@ Todas las traducciones para este repo serán enumeradas abajo:
  * 🎥 [JavaScript Using Prototypes — O'Reilly](https://www.youtube.com/watch?v=oCwCcNvaXAQ)
  * 🎥 [A Beginner's Guide to Javascript's Prototype — Tyler Mcginnis](https://www.youtube.com/watch?v=XskMWBXNbp0)
  * 🎥 [Prototypes in Javascript - p5.js Tutorial — The Coding Train](https://www.youtube.com/watch?v=hS_WqkyUah8)
+ * 🎥 [HERENCIA POR PROTOTIPOS EN JAVASCRIPT | JS en ESPAÑOL](https://youtu.be/a2tp64Vtzxs)
 
 
 **[⬆ volver arriba](#Tabla-de-contenido)**
@@ -550,6 +553,8 @@ Todas las traducciones para este repo serán enumeradas abajo:
 ---
 
 ## 19. map, reduce, filter
+ ### Videos
+* 🎥 [MAP, FILTER y REDUCE EN JAVASCRIPT | JS en ESPAÑOL](https://youtu.be/tP8JiVUiyDo)
 
 ### Artículos (Inglés)
 
@@ -639,7 +644,7 @@ Todas las traducciones para este repo serán enumeradas abajo:
  * 🎥 [JavaScript Closures 101: What is a closure? — JavaScript Tutorials](https://www.youtube.com/watch?v=yiEeiMN2Khs)
  * 🎥 [Closures — freeCodeCamp](https://www.youtube.com/watch?v=1JsJx1x35c0)
  * 🎥 [JavaScript Closures — CodeWorkr](https://www.youtube.com/watch?v=-rLrGAXK8WE)
- * 🎥 [CLAUSURAS (Closures) EN JAVASCRIPT](https://youtu.be/JXG_gQ0OF74)
+ * 🎥 [CLAUSURAS (Closures) EN JAVASCRIPT | JS en ESPAÑOL](https://youtu.be/tP8JiVUiyDo)
 
 **[⬆ volver arriba](#Tabla-de-contenido)**
 
