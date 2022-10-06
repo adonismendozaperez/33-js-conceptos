@@ -103,6 +103,7 @@ Todas las traducciones para este repo serán enumeradas abajo:
  * 📜 [Javascript: What Is The Execution Context? What Is The Call Stack? — Valentino Gagliardi](https://www.valentinog.com/blog/js-execution-context-call-stack/)
  * 📜 [What is the JS Event Loop and Call Stack? — Jess Telford](https://gist.github.com/jesstelford/9a35d20a2aa044df8bf241e00d7bc2d0)
  * 📜 [Call Stack — MDN](https://developer.mozilla.org/en-US/docs/Glossary/Call_stack)
+ * 📜 [Pila de llamadas — MDN(ES)](https://developer.mozilla.org/es/docs/Glossary/Call_stack)
  * 📜 [Understanding Execution Context and Execution Stack in Javascript — Sukhjinder Arora](https://blog.bitsrc.io/understanding-execution-context-and-execution-stack-in-javascript-1c9ea8642dd0)
  * 📜 [How JavaScript Works: An Overview of the Engine, the Runtime, and the Call Stack — Alexander Zlatkov](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf)
  * 📜 [The Ultimate Guide to Execution Contexts, Hoisting, Scopes, and Closures in JavaScript — Tyler McGinnis](https://tylermcginnis.com/ultimate-guide-to-execution-contexts-hoisting-scopes-and-closures-in-javascript/)
@@ -134,6 +135,7 @@ Todas las traducciones para este repo serán enumeradas abajo:
  * 📜 [Primitive Types — Flow](https://flow.org/en/docs/types/primitives/)
  * 📜 [(Not) Everything in JavaScript is an Object - Daniel Li](http://blog.brew.com.hk/not-everything-in-javascript-is-an-object/)
  * 📜 [JavaScript data types and data structures - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Primitive_values)
+ * 📜 [Tipos de datos y estructuras en JavaScript - MDN(ES)](https://developer.mozilla.org/es/docs/Web/JavaScript/Data_structures#Primitive_values)
 
 ### Videos
 
@@ -183,6 +185,7 @@ Todas las traducciones para este repo serán enumeradas abajo:
  * 📜 [You Don't Know JS: Types & Grammar [Book] — Kyle Simpson](https://www.oreilly.com/library/view/you-dont-know/9781491905159/ch04.html)
  * 📜 [(Not) Everything in JavaScript is an Object - Daniel Li](http://blog.brew.com.hk/not-everything-in-javascript-is-an-object/)
  * 📜 [Type Coercion in JavaScript, and why everyone gets it wrong.](https://thedevs.network/blog/type-coercion-in-javascript-and-why-everyone-gets-it-wrong)
+ * 📜 [Type coercion - MDN](https://developer.mozilla.org/en-US/docs/Glossary/Type_coercion)
 
  ### Videos
 
@@ -444,8 +447,11 @@ Todas las traducciones para este repo serán enumeradas abajo:
  * 📜 [How AND When to use bind, call, and apply in Javascript — Eigen X](https://www.eigenx.com/blog/https/mediumcom/eigen-x/how-and-when-to-use-bind-call-and-apply-in-javascript-77b6f42898fb)
  * 📜 [JavaScript .bind() vs .apply() and .call() — Hack Sparrow](https://www.hacksparrow.com/javascript-bind-vs-apply-and-call.html)
  * 📜 [call() — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/call)
+ * 📜 [call() — MDN(ES)](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Function/call)
  * 📜 [bind() — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_objects/Function/bind)
+ * 📜 [bind() — MDN(ES)](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_objects/Function/bind)
  * 📜 [apply() — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/apply)
+ * 📜 [apply() — MDN(ES)](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Function/apply)
  * 📜 [What is 'this' in JavaScript? — Daniel Li](http://blog.brew.com.hk/what-is-this-in-javascript/)
  * 📜 [Let me explain to you what is `this`. (Javascript) — Jason Yu](https://dev.to/ycmjason/let-me-explain-to-you-what-is-this-javascript-44ja)
 
@@ -493,6 +499,7 @@ Todas las traducciones para este repo serán enumeradas abajo:
  * 📜 [Prototypes in JavaScript — Rupesh Mishra](https://hackernoon.com/prototypes-in-javascript-5bba2990e04b)
  * 📜 [Prototype in JavaScript: it’s quirky, but here’s how it works — Pranav Jindal](https://medium.freecodecamp.org/prototype-in-js-busted-5547ec68872)
  * 📜 [Inheritance and the prototype chain — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
+ * 📜 [Herencia y la cadena de prototipos — MDN(ES)](https://developer.mozilla.org/es/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
  * 📜 [Master the JavaScript Interview: What’s the Difference Between Class & Prototypal Inheritance? — Eric Elliott](https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9)
  * 📜 [Understanding JavaScript: Prototype and Inheritance — Alexander Kondov](https://hackernoon.com/understanding-javascript-prototype-and-inheritance-d55a9a23bde2)
  * 📜 [Prototypal Inheritance — JavaScript.Info](https://javascript.info/prototype-inheritance)
@@ -532,6 +539,7 @@ Todas las traducciones para este repo serán enumeradas abajo:
 ### Artículos (Inglés)
 
  * 📜 [Object.create() — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/create)
+ * 📜 [Object.create() — MDN(ES)](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Object/create)
  * 📜 [Object.create in JavaScript — Rupesh Mishra](https://hackernoon.com/object-create-in-javascript-fa8674df6ed2)
  * 📜 [Object.create(): the New Way to Create Objects in JavaScript — Rob Gravelle](https://www.htmlgoodies.com/beyond/javascript/object.create-the-new-way-to-create-objects-in-javascript.html)
  * 📜 [Basic Inheritance with Object.create — Joshua Clanton](http://adripofjavascript.com/blog/drips/basic-inheritance-with-object-create.html)
@@ -541,6 +549,7 @@ Todas las traducciones para este repo serán enumeradas abajo:
  * 📜 [Dealing With Objects in JavaScript With Object.assign, Object.keys and hasOwnProperty](https://alligator.io/js/dealing-with-objects/)
  * 📜 [Copying Objects in JavaScript ― Orinami Olatunji](https://scotch.io/bar-talk/copying-objects-in-javascript)
  * 📜 [Object.assign() — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/assign)
+ * 📜 [Object.assign() — MDN(ES)](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Object/assign)
  * 📜 [JavaScript: Object.assign() — Thiago S. Adriano](https://codeburst.io/javascript-object-assign-bc9696dcbb6e)
 
  ### Videos
@@ -625,6 +634,7 @@ Todas las traducciones para este repo serán enumeradas abajo:
 ### Artículos (Inglés)
 
  * 📜 [Closures — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
+ * 📜 [Closures — MDN(ES)](https://developer.mozilla.org/es/docs/Web/JavaScript/Closures)
  * 📜 [I never understood JavaScript closures — Olivier De Meulder](https://medium.com/dailyjs/i-never-understood-javascript-closures-9663703368e8)
  * 📜 [Closure — JavaScript.Info](https://javascript.info/closure)
  * 📜 [Understand JavaScript Closures With Ease — Richard Bovell](http://javascriptissexy.com/understand-javascript-closures-with-ease/)
@@ -723,6 +733,7 @@ Todas las traducciones para este repo serán enumeradas abajo:
  * 📜 [What You Should Know About ES6 Maps — Just Chris](https://hackernoon.com/what-you-should-know-about-es6-maps-dc66af6b9a1e)
  * 📜 [ES6 Maps in Depth — Nicolás Bevacqua](https://ponyfoo.com/articles/es6-maps-in-depth)
  * 📜 [Generator — MDN web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator)
+ * 📜 [Generador — MDN(ES)](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Generator)
 * 📜 [What are JavaScript Generators and how to use them — Vladislav Stepanov](https://codeburst.io/what-are-javascript-generators-and-how-to-use-them-c6f2713fd12e)
 * 📜 [Understanding JavaScript Generators With Examples  — Arfat Salman](https://codeburst.io/understanding-generators-in-es6-javascript-with-examples-6728834016d5)
 * 📜 [The Basics of ES6 Generators — Kyle Simpson](https://davidwalsh.name/es6-generators)
@@ -745,6 +756,7 @@ Todas las traducciones para este repo serán enumeradas abajo:
 ### Artículos (Inglés)
 
  * 📜 [Promise — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+ * 📜 [Promesas — MDN(ES)](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Promise)
  * 📜 [JavaScript Promises for Dummies ― Jecelyn Yeen](https://scotch.io/tutorials/javascript-promises-for-dummies)
  * 📜 [Understanding promises in JavaScript — Gokul N K](https://hackernoon.com/understanding-promises-in-javascript-13d99df067c1)
  * 📜 [Master the JavaScript Interview: What is a Promise? — Eric Elliott](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261)
@@ -872,6 +884,7 @@ Todas las traducciones para este repo serán enumeradas abajo:
 
  * 📜 [Class inheritance, super — JavaScript.Info](https://javascript.info/class-inheritance)
  * 📜 [Inheritance in JavaScript — MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Inheritance)
+ * 📜 [Herencia en JavaScript — MDN(ES)](https://developer.mozilla.org/es/docs/Learn/JavaScript/Objects/Inheritance)
  * 📜 [Inheritance in JavaScript — Rupesh Mishra](https://hackernoon.com/inheritance-in-javascript-21d2b82ffa6f)
  * 📜 [Simple Inheritance with JavaScript — David Catuhe](https://www.sitepoint.com/simple-inheritance-javascript/)
  * 📜 [JavaScript — Inheritance, delegation patterns and Object linking — NC Patro](https://codeburst.io/javascript-inheritance-25fe61ab9f85)
