@@ -486,7 +486,7 @@ Todas las traducciones para este repo serán enumeradas abajo:
 
  ### Videos
 
- * 🎥 [CLASES  EN JAVASCRIPT | JS en ESPAÑOL](https://youtu.be/R1LmvJ1_4QM)
+ * 🎥 [clases en javascript | JS en ESPAÑOL](https://youtu.be/R1LmvJ1_4QM)
  
 **[⬆ volver arriba](#Tabla-de-contenido)**
 
