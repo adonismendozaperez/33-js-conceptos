@@ -484,6 +484,10 @@ Todas las traducciones para este repo serán enumeradas abajo:
  * 📜 [JavaScript instanceof vs typeof — Gary Rafferty](http://garyrafferty.com/2012/12/07/JavaScript-instanceof-vs-typeof.html)
  * 📜 [Function and Object, instances of each other — Kiro Risk](https://javascriptrefined.io/function-and-object-instances-of-each-other-1e1095d5faac)
 
+ ### Videos
+
+ * 🎥 [clases en javascript | JS en ESPAÑOL](https://youtu.be/R1LmvJ1_4QM)
+ 
 **[⬆ volver arriba](#Tabla-de-contenido)**
 
 ---
